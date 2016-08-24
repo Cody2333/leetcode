@@ -1,2 +1,2 @@
 # leetcode
-### 我做的leetcode
+### my leetcode solution
